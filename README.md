@@ -35,7 +35,7 @@ To run the EDA notebook, ensure you have the following dependencies installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Common-Voice-Urdu-EDA.git
-   cd Common-Voice-EDA
+   cd Common-Voice-Urdu-EDA
    ```
 
 2. Launch Jupyter Notebook:
